@@ -115,6 +115,7 @@ npm run dev
 ## Links
 
 - GitHub Repository: https://github.com/SwissLana/goit-neo-react-hw-module1.git
+- Live Demo: https://goit-neo-react-hw-module1-chi-tan.vercel.app/
 
 ## Author
 
